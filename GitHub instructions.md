@@ -76,3 +76,6 @@ I copied two files into the repository. While doing a project of course this fol
 ![Untitled](GitHub%20instructions%20736af4d4964c43b08b132159fbc04f26/Untitled%2012.png)
 
 Now, these files are available in the repository 😀
+And take a look at slac #lectures channel for the presentation by Emilija where other intersting stuff is available!
+
+Thanks a lot!
